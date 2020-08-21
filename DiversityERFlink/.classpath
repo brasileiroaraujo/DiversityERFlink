@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_151">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Brasileiro/Bases_de_Dados/LOD/jena_jar_files/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brasileiro/Bases_de_Dados/LOD/jena_jar_files/commons-compress-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brasileiro/Bases_de_Dados/LOD/jena_jar_files/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brasileiro/Bases_de_Dados/LOD/jena_jar_files/hdt-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brasileiro/Bases_de_Dados/LOD/jena_jar_files/hdt-java-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brasileiro/Bases_de_Dados/LOD/jena_jar_files/hdt-jena-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brasileiro/Bases_de_Dados/LOD/jena_jar_files/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brasileiro/Bases_de_Dados/LOD/jena_jar_files/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brasileiro/Bases_de_Dados/LOD/jena_jar_files/jcl-over-slf4j-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brasileiro/Bases_de_Dados/LOD/jena_jar_files/jcommander-1.32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brasileiro/Bases_de_Dados/LOD/jena_jar_files/jena-arq-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brasileiro/Bases_de_Dados/LOD/jena_jar_files/jena-core-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brasileiro/Bases_de_Dados/LOD/jena_jar_files/jena-iri-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brasileiro/Bases_de_Dados/LOD/jena_jar_files/junit-dep-4.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brasileiro/Bases_de_Dados/LOD/jena_jar_files/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brasileiro/Bases_de_Dados/LOD/jena_jar_files/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brasileiro/Bases_de_Dados/LOD/jena_jar_files/slf4j-log4j12-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brasileiro/Bases_de_Dados/LOD/jena_jar_files/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brasileiro/Bases_de_Dados/LOD/jena_jar_files/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brasileiro/Bases_de_Dados/LOD/jena_jar_files/xz-1.4.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
